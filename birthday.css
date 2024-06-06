@@ -1,0 +1,156 @@
+*{
+  margin: 5px;
+  border-radius: 10px;
+}body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:repeating-radial-gradient(circle,pink, white, pink, white, pink,white,pink,white);
+}
+
+header {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  top: 0px;
+  border-top: 30px solid white;
+  box-shadow: 0 0 20px black;
+}
+
+.bulb {
+  height: 30px;
+  width: 20px;
+  background-image: url(bulb.png);
+  background-color: rgba(255, 166, 0, 0.649);
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  background-size: 100%;
+  rotate: 180deg;
+  box-shadow: 10px 10px 25px rgb(255, 94, 0), -10px -10px 25px rgb(255, 94, 0);
+  animation: bulb 2s ease-in-out infinite 3s;
+}
+
+@keyframes bulb {
+  0% {
+    box-shadow: 10px 10px 25px rgb(255, 94, 0), -10px -10px 25px rgb(255, 94, 0);
+  }
+
+  50% {
+    box-shadow: 10px 10px 36px rgb(255, 255, 255), -10px -10px 36px rgb(255, 255, 255);
+  }
+
+  100% {
+    box-shadow: 10px 10px 25px rgb(255, 94, 0), -10px -10px 25px rgb(255, 94, 0);
+  }
+}
+#photo{
+  height: 600px;
+  width: 400px;
+  border: 10px solid white;
+  transform: translateY(100px);
+  display:inline-block;
+  overflow: scroll;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 20px rgb(0, 52, 52);
+}
+::-webkit-scrollbar{
+  width: 10px;
+  background-color: rgb(255, 0, 217);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+  height: 5px;
+  width: 10px;
+  border-radius: 10px;
+  background-color: beige;
+}  
+
+.child_photo1{
+  background-image: url(krishna_child1.jpg );
+  background-size: contain;
+  height: 500px;
+  width: 380px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo2{
+  background-image: url(krishna_child2.jpg );
+  background-size: contain;
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo3{
+  background-image: url( baby.jpg);
+  background-size: contain;
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo4{
+  background-image: url(baby2.jpg );
+  background-size: contain;
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo5{
+  background-image: url(both.jpg );
+  background-size: contain;
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo6{
+  background-image: url( freinds.jpg);
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo7{
+  background-image: url(hand.jpg );
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo8{
+  background-image: url( puri.jpg);
+  background-size: contain;
+  height: 150px;
+  background-repeat: no-repeat;width: 380px;
+  border:2px solid rgb(225, 213, 213);
+ 
+  
+}
+.child_photo9{
+  background-image: url(text.jpg );
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat; background-size: cover;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo10{
+  background-image: url(text2.jpg );
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat; background-size: cover;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo10{
+  background-image: url(first.jpg );
+  height: 500px;
+  width: 380px;
+  background-repeat: no-repeat; background-size: cover;
+  border:2px solid rgb(255, 255, 255);
+}
