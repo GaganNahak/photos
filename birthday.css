@@ -5,9 +5,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-/*   background:repeating-radial-gradient(circle,pink, white, pink, white, pink,white,pink,white); */
-  background-image: url(https://www.google.com/imgres?q=best%20background&imgurl=https%3A%2F%2Faicontentfy.com%2Fhubfs%2FBlog%2Fe2f82ed6-4180-4648-9560-949a48793661.jpg&imgrefurl=https%3A%2F%2Faicontentfy.com%2Fen%2Fblog%2Fdress-up-desktop-best-google-search-wallpaper-collections&docid=E-FTEOuungA0XM&tbnid=QmcYY42-ECDGmM&vet=12ahUKEwjWxeSwxdOGAxWq1zgGHf9jDvcQM3oECB4QAA..i&w=2048&h=1024&hcb=2&ved=2ahUKEwjWxeSwxdOGAxWq1zgGHf9jDvcQM3oECB4QAA);
-  
+  background:repeating-radial-gradient(circle,pink, white, pink, white, pink,white,pink,white);
+   
 }
 
 header {
