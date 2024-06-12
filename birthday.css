@@ -155,3 +155,10 @@ header {
   background-repeat: no-repeat; background-size: cover;
   border:2px solid rgb(255, 255, 255);
 }
+.child_photo12{
+  background-image: url(WhatsApp\ Image\ 2024-06-11\ at\ 06.38.17_8c46f313.jpg );
+  background-size: cover;
+  height: 350px;
+  width: 300px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
