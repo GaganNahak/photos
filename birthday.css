@@ -1,4 +1,4 @@
-*{
+ *{
   margin: 5px;
   border-radius: 10px;
 }body {
@@ -6,7 +6,6 @@
   align-items: center;
   justify-content: center;
   background:repeating-radial-gradient(circle,pink, white, pink, white, pink,white,pink,white);
-   
 }
 
 header {
@@ -73,54 +72,54 @@ header {
 .child_photo1{
   background-image: url(krishna_child1.jpg );
   background-size: contain;
-  height: 500px;
-  width: 380px; background-repeat: no-repeat;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo2{
   background-image: url(krishna_child2.jpg );
   background-size: contain;
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo3{
   background-image: url( baby.jpg);
   background-size: contain;
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo4{
   background-image: url(baby2.jpg );
   background-size: contain;
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo5{
   background-image: url(both.jpg );
   background-size: contain;
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo6{
   background-image: url( freinds.jpg);
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo7{
   background-image: url(hand.jpg );
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   border:2px solid rgb(255, 255, 255);
@@ -129,29 +128,29 @@ header {
   background-image: url( puri.jpg);
   background-size: contain;
   height: 150px;
-  background-repeat: no-repeat;width: 380px;
+  background-repeat: no-repeat;width: 250px;
   border:2px solid rgb(225, 213, 213);
  
   
 }
 .child_photo9{
   background-image: url(text.jpg );
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat; background-size: cover;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo10{
   background-image: url(text2.jpg );
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat; background-size: cover;
   border:2px solid rgb(255, 255, 255);
 }
 .child_photo10{
   background-image: url(first.jpg );
-  height: 500px;
-  width: 380px;
+  height: 350px;
+  width: 250px;
   background-repeat: no-repeat; background-size: cover;
   border:2px solid rgb(255, 255, 255);
 }
@@ -159,6 +158,20 @@ header {
   background-image: url(WhatsApp\ Image\ 2024-06-11\ at\ 06.38.17_8c46f313.jpg );
   background-size: cover;
   height: 350px;
-  width: 300px; background-repeat: no-repeat;
+  width: 250px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo13{
+ 
+  background-size: cover;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo14{
+ 
+  background-size: cover;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
