@@ -175,3 +175,24 @@ header {
   width: 250px; background-repeat: no-repeat;
   border:2px solid rgb(255, 255, 255);
 }
+.child_photo15{
+  background-image: url(collage1.jpg);
+  background-size: cover;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo16{
+  background-image: url( collage2.jpg );
+  background-size: cover;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
+.child_photo17{
+  background-image: url(  collage3.jpg);
+  background-size: cover;
+  height: 350px;
+  width: 250px; background-repeat: no-repeat;
+  border:2px solid rgb(255, 255, 255);
+}
